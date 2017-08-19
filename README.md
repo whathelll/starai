@@ -9,6 +9,7 @@ npm install
 
 # to start
 npm start
+# browse to http://localhost:8080
 ```
 
 #### Change html
